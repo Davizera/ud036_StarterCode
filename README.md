@@ -1,2 +1,2 @@
 # ud036_StarterCode
-Source code for a Movie Trailer website.
+Esse é o código fonte de uma pequeno programa que gera um arquivo html e o abre em um navegador
